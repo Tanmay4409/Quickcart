@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "18305469508",
+    "firebase_url": "https://quickcart-5e1a8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quickcart-5e1a8",
+    "storage_bucket": "quickcart-5e1a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18305469508:android:bdc2f2999a93e0b948c011",
+        "android_client_info": {
+          "package_name": "com.my.tmscreation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWCaedHJfvVVTx54QFPTHoZIttWHf7ZSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
